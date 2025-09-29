@@ -17,7 +17,7 @@ public class hitungvolume {
 		keyboard.close();
 		//Proses Perhitungan
 		v = pi * r * r * t;
-		System.out.println("Volume Tabung : " + v);
+		System.out.println("Volume Tabung : " + v);//
 	}
 
 }
