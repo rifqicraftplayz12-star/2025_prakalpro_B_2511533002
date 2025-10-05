@@ -13,7 +13,7 @@ public class latif1 {
 		if (ipk>2.75) {
 			System.out.println("Anda Lulus Sangat Memuaskan dengan IPK " + ipk);
 		}else {
-			System.out.println("Anda Tidak Lulus");
+			System.out.println("Anda Tidak Lulus");//
 		}
 	}
 

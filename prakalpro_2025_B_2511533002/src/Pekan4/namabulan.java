@@ -46,7 +46,7 @@ public class namabulan {
 		System.out.println("Desember");
 		break;
 		default:
-			System.out.println("Angka Tidak Valid");
+			System.out.println("Angka Tidak Valid");//
 		}
 		scanner.close();
 	}

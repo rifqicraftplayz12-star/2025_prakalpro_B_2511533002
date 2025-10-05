@@ -23,7 +23,7 @@ public class multiif {
 			System.out.println("Anda Belum Cukup Umur Bawa Motor");
 		}
 		if((umur < 17)&&(sim=='y')) {
-			System.out.println("Anda Belum Cukup Umur Punya Sim");
+			System.out.println("Anda Belum Cukup Umur Punya Sim");//
 		}
 	}
 }

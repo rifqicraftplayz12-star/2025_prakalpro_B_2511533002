@@ -20,7 +20,7 @@ public class nilai {
 		}else if(nilai >=50) {
 			System.out.println("D");
 		}else {
-			System.out.println("E");
+			System.out.println("E");//
 		}
 	}
 
